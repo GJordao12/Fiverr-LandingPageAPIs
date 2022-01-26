@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/aluno-face-1.jpg",
+    "alt": "Foto Krzysztof Romero",
+    "nome": "Krzysztof Romero",
+    "curso": "Sport",
+    "numero": 1,
+    "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo tempore beatae ex iusto, accusantium soluta tempora, veniam."
+  },
+  {
+    "id": "2",
+    "image": "/assets/aluno-face-2.jpg",
+    "alt": "Foto Lemar Holloway",
+    "nome": "Lemar Holloway",
+    "curso": "Mechanical Engineering",
+    "numero": 2,
+    "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo tempore beatae ex iusto, accusantium soluta tempora, veniam."
+  },
+  {
+    "id": "3",
+    "image": "/assets/aluno-face-3.jpg",
+    "alt": "Foto Adelaide Hinton",
+    "nome": "Adelaide Hinton",
+    "curso": "Medicine",
+    "numero": 3,
+    "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo tempore beatae ex iusto, accusantium soluta tempora, veniam."
+  },
+  {
+    "id": "4",
+    "image": "/assets/aluno-face-4.jpg",
+    "alt": "Foto Saqib Madden",
+    "nome": "Saqib Madden",
+    "curso": "Computer Engineering",
+    "numero": 4,
+    "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo tempore beatae ex iusto, accusantium soluta tempora, veniam."
+  },
+  {
+    "id": "5",
+    "image": "/assets/aluno-face-5.jpg",
+    "alt": "Foto Murray Martin",
+    "nome": "Murray Martin",
+    "curso": "Computer Engineering",
+    "numero": 5,
+    "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo tempore beatae ex iusto, accusantium soluta tempora, veniam."
+  },
+  {
+    "id": "6",
+    "image": "/assets/cat-photo-1.jpg",
+    "alt": "Foto Nojus Huerta",
+    "nome": "Nojus Huerta",
+    "curso": "Cat",
+    "numero": 6,
+    "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo tempore beatae ex iusto, accusantium soluta tempora, veniam."
+  },
+  {
+    "id": "7",
+    "image": "/assets/cat-photo-2.jpg",
+    "alt": "Foto Kinga Matthews",
+    "nome": "Kinga Matthews",
+    "curso": "Cat",
+    "numero": 7,
+    "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo tempore beatae ex iusto, accusantium soluta tempora, veniam."
+  },
+  {
+    "id": "8",
+    "image": "/assets/photo-dog-1.jpg",
+    "alt": "Foto Beck Cole",
+    "nome": "Beck Cole",
+    "curso": "Dog",
+    "numero": 8,
+    "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo tempore beatae ex iusto, accusantium soluta tempora, veniam."
+  }
+]

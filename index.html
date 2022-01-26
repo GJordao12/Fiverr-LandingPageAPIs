@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Landing Page APIs</title>
+    <link rel="stylesheet" href="/style/global.css"/>
+</head>
+
+<body>
+<header class="header headerPage">
+    <nav class="navbar">
+        <a class="nav-link">Landing Page APIs</a>
+        <ul class="nav-menu">
+            <li class="nav-item">
+                <a href="#apresentation" class="nav-link">Apresentation</a>
+            </li>
+            <li class="nav-item">
+                <a href="#classElements" class="nav-link">Class Elements</a>
+            </li>
+            <li class="nav-item">
+                <a href="#api" class="nav-link">API</a>
+            </li>
+        </ul>
+        <div class="hamburger">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+        </div>
+    </nav>
+</header>
+<section id="apresentation" class="section-apresent">
+    <div class="section-aluno">
+        <div>
+            <h1>Apresentation</h1>
+        </div>
+        <div class="card-aluno">
+            <img src="/assets/aluno-face-1.jpg" alt="Nome Aluno"/>
+            <h4>Gonçalo Jordão</h4>
+            <h4>Nº 12</h4>
+            <h4>Computer Engineering</h4>
+            <p>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo tempore beatae ex iusto, accusantium
+                soluta tempora, veniam laborum ipsam repudiandae dolore esse in, ratione fugit voluptatem reiciendis
+                quia vero doloremque?
+            </p>
+        </div>
+    </div>
+    <hr/>
+    <div id="classElements" class="section-turma">
+        <div>
+            <h2>Class Elements</h2>
+        </div>
+        <div id="turma_result_map">
+        </div>
+    </div>
+</section>
+<section class="section-apis">
+    <h3>APIs Consumption</h3>
+    <div class="section-center">
+        <div class="section-filmes">
+            <div id="header" class="header">
+                <h1>Featured Movies</h1>
+                <form id="form">
+                    <input type="text" id="search" placeholder="Pesquisar" class="search"/>
+                </form>
+            </div>
+            <main id="main"></main>
+        </div>
+        <div class="section-comida">
+            <div class="question">
+                <h3>
+                    Are you hungry?
+                </h3>
+                <h5>Get a random recipe by clicking below!
+                </h5>
+                <button class="button-comida" id="get_meal">Get Inspired 🍔</button>
+
+            </div>
+            <div id="meal" class="comida"></div>
+        </div>
+    </div>
+</section>
+<footer class="footer">
+    <section class="container footer-text">2022 © Gonçalo Jordão</section>
+</footer>
+<script type="text/javascript" src="/script.js"></script>
+</body>
+</html>
