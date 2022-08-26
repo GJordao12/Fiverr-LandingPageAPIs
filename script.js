@@ -2,7 +2,7 @@
 
 const turma_result_map = document.getElementById('turma_result_map');
 
-fetch('/database/elementosTurma.json')
+fetch('./database/elementosTurma.json')
     .then((res) => res.json())
     .then((data) => {
         turma_result_map.innerHTML =
