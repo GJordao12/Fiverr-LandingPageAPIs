@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "image": ".../assets/aluno-face-1.jpg",
+    "image": "./assets/aluno-face-1.jpg",
     "alt": "Foto Krzysztof Romero",
     "nome": "Krzysztof Romero",
     "curso": "Sport",
@@ -10,7 +10,7 @@
   },
   {
     "id": "2",
-    "image": "../assets/aluno-face-2.jpg",
+    "image": "./assets/aluno-face-2.jpg",
     "alt": "Foto Lemar Holloway",
     "nome": "Lemar Holloway",
     "curso": "Mechanical Engineering",
@@ -19,7 +19,7 @@
   },
   {
     "id": "3",
-    "image": "../assets/aluno-face-3.jpg",
+    "image": "./assets/aluno-face-3.jpg",
     "alt": "Foto Adelaide Hinton",
     "nome": "Adelaide Hinton",
     "curso": "Medicine",
@@ -28,7 +28,7 @@
   },
   {
     "id": "4",
-    "image": "../assets/aluno-face-4.jpg",
+    "image": "./assets/aluno-face-4.jpg",
     "alt": "Foto Saqib Madden",
     "nome": "Saqib Madden",
     "curso": "Computer Engineering",
@@ -37,7 +37,7 @@
   },
   {
     "id": "5",
-    "image": "../assets/aluno-face-5.jpg",
+    "image": "./assets/aluno-face-5.jpg",
     "alt": "Foto Murray Martin",
     "nome": "Murray Martin",
     "curso": "Computer Engineering",
@@ -46,7 +46,7 @@
   },
   {
     "id": "6",
-    "image": "../assets/cat-photo-1.jpg",
+    "image": "./assets/cat-photo-1.jpg",
     "alt": "Foto Nojus Huerta",
     "nome": "Nojus Huerta",
     "curso": "Cat",
@@ -55,7 +55,7 @@
   },
   {
     "id": "7",
-    "image": "../assets/cat-photo-2.jpg",
+    "image": "./assets/cat-photo-2.jpg",
     "alt": "Foto Kinga Matthews",
     "nome": "Kinga Matthews",
     "curso": "Cat",
@@ -64,7 +64,7 @@
   },
   {
     "id": "8",
-    "image": "../assets/photo-dog-1.jpg",
+    "image": "./assets/photo-dog-1.jpg",
     "alt": "Foto Beck Cole",
     "nome": "Beck Cole",
     "curso": "Dog",
