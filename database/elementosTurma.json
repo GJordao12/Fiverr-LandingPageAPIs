@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "image": "../assets/aluno-face-1.jpg",
+    "image": "./assets/aluno-face-1.jpg",
     "alt": "Foto Krzysztof Romero",
     "nome": "Krzysztof Romero",
     "curso": "Sport",
